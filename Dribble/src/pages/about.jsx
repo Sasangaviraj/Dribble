@@ -26,6 +26,7 @@ const About = () => {
       <h1 className='text-white w-[300px] justify-center items-center p-8  font-bold font-Mons-Sans bg-rose-300 mb-2'>Viraj & Shachini Happy Day!</h1>
       <div className="flex gap-2 items-center justify-center">
         <FaHeart className='text-red-600 w-5 h-5 justify-start'/>
+        <FaHeart className='text-red-600 w-5 h-5 justify-start'/>
         <p>{like}</p>
       </div>
       
